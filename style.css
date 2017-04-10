@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+.cool {
+  background-color: #6D98AC;
+  color: #E2D7CD;
+}
+
+.warm {
+  background-color: #D97357 ;
+  color: #E7F1BA;
+}
+
+.cool a:link {
+  color: #E2D7CD;
+  text-decoration: none;
+}
+
+.cool a:visited {
+  color: #E2D7CD;
+}
+
+.warm a:link {
+  color: #E6;
+  text-decoration: none;
+}
+
+.warm a:visited {
+  color: #E5E799;
+}
